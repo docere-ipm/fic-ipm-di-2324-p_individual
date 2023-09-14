@@ -38,9 +38,28 @@ aplicación con una [interface gráfica de
 escritorio](https://en.m.wikipedia.org/wiki/Graphical_user_interface).
 
 
-El caso de uso principal es realizar consultas al servicio
-[thecocktaildb.com](https://www.thecocktaildb.com/). Dicho servicio
-ofrece datos relativos a la elaboración de cócteles.
+La aplicación ofrece a la usuaria información sobre la elaboración y
+composición de
+[cócteles](https://es.wikipedia.org/wiki/C%C3%B3ctel). La información
+se recupera del servicio
+[thecocktaildb.com](https://www.thecocktaildb.com/). Por tanto, para
+diseñar la inteface tienes que:
+
+  1. Identificar qué tipos de usuaria pueden estar interesadas en usar
+     la aplicación.
+	 
+  2. Identificar los dos o tres casos más comunes del uso de la
+     aplicación que pueda querer hacer la usuaria.
+	 
+  3. Comprobar que dichos casos de uso son viables con el api que
+     ofrece el servicio.
+	 
+  4. Diseñar la interface para cubrir dichos casos.
+  
+  5. Incluir en el diseño de la interface los elementos necesarios
+     para gestionar los problemas de las comunicaciones en red:
+     tiempos de respuesta largos, fallos del servidor, fallos de la
+     red, ...
 
 
 ## Fase 1: Diseño
