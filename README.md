@@ -112,7 +112,7 @@ faciliten su comprensión.
 
 > **Note** Para distinguir entre wireframe y mid-fidelity emplearemos
 > el siguiente criterio: si no se puede realizar a mano de forma
-> razonable, es mid-fidelity.
+> razonable, es medium-fidelity.
 
 
 ### La parte dinámica
